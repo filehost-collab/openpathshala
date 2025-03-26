@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Open Pathshala//Vedic Astrology Overview//EN
+BEGIN:VEVENT
+SUMMARY:Overview of Vedic Astrology (Jyotiṣa Śāstra) | Open Pathshala
+DTSTART:20250406T023000Z
+DTEND:20250406T043000Z
+DESCRIPTION:Introductory session on Vedic Astrology (Jyotiṣa Śāstra) by Open Pathshala.
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
